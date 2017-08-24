@@ -1,0 +1,23 @@
+{
+  "name": "wwwget",
+  "version": "1.0.0",
+  "description": "simple http/s graber with auto decoding (base on request)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wshxbqq/wwwget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wshxbqq/wwwget/issues"
+  },
+  "homepage": "https://github.com/wshxbqq/wwwget#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.18",
+    "request": "^2.81.0"
+  }
+}
